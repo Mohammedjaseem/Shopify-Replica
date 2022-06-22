@@ -1,0 +1,167 @@
+body{
+    margin: 0;
+    padding: 0;
+
+    
+}
+.main-body{
+    height: 2000px;
+    width: 100%;
+}
+
+.banner_image{
+    background-image: url(../images/img1.svg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 1200px;
+    background-size: cover;
+    background-position: center;
+}
+.logo{
+    margin-left: 690px;
+    padding-top: 10px;
+    width:135px;
+    height: 70px
+}
+
+.main-h1{
+    color: #fff;
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    font-size: 60px;
+    margin-left: 100px;
+    text-align: center;
+    padding-top: 10px;
+    font-weight: bold;
+
+}
+.p-main{
+    font-family:ShopifySans, Helvetica, Arial, sans-serif;
+    font-size: 30px;
+    color: #fff;
+    text-align: center;
+    margin-left: 100px;
+}
+.main-form{
+    margin-left: 500px;
+    text-align: left;
+    height: 50px;
+    width: 372px;
+    border-radius: 5px;
+    border: none;
+    font-size: 15px; 
+    padding-left: 10px ;
+}
+.main-button {
+    background-color: #000000; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 10px;
+    height: 55px;
+    font-weight: bold;
+    border-radius: 05px;
+
+}
+.main-p2{
+    text-align:center;
+    padding-left: 100px;
+    padding-top: 0px;
+    color: white;   
+    font-size: 12px;
+    font-family : Helvetica, Arial, sans-serif;
+}
+.table-01{
+    width: 60%;
+    margin-left: 350px;
+    padding-top: 100px;
+    text-align: left;
+}
+.icons-table{
+    height: 45px;
+    width: 45px;
+    margin-left:0px;
+    text-align: left;
+    padding-bottom: 15px;
+}
+.table-2ndrow{
+    font-weight: bold;
+    line-height: 24px;
+    font-size: 18px;
+    font-family: Helvetica, Arial, sans-serif;
+    padding-bottom: 15px;
+}
+.p-table{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: lighter;
+    color:#6b7177;
+    line-height: 24px;
+}
+.hr-line01{
+    margin-left: 350px;
+    margin-top: 120px;
+    width: 900px;
+}
+.srt-logos{
+    height: 45px;
+    width: 100px;
+    padding-left:20px;
+    padding-top: 50px;
+}
+.srt-div{
+    padding-left: 350px;
+}
+.hr-line02{
+    margin-left: 350px;
+    width: 900px;
+    margin-top: 50px;
+}
+.h2-bottom{
+    color: #42474c;
+    margin-top: 80px;
+    font-family: Helvetica, Arial, sans-serif;
+    margin-left: 450px;
+    text-align: center;
+    width:650px;
+    font-weight: lighter;
+    line-height:36px;
+}
+.h3-bottom{
+    color: #42474c;
+    font-weight: 700;
+    margin-left: 630px;
+    font-size:14px;
+    letter-spacing:0.6125px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+.footer-button {
+    background-color: #008060; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 55px;
+    font-weight: bold;
+    border-radius: 05px;
+    margin-left: 690px;
+    margin-top:40px
+
+}
+.p-bottom{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size:16px;
+    font-weight:400;
+    margin-left: 1000px;
+    margin-top:150px;
+    padding-bottom: 20px;
+    color: #008060;
+    
+}
+
